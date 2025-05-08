@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-yellow-100 p-4">
       <div className="bg-yellow-200 rounded-md p-8 max-w-md w-full text-center shadow-md">
-        <h1 className="text-3xl font-bold text-yellow-700 mb-10 font-mono underline mt-5">
+        <h1 className="text-3xl font-bold text-yellow-700 mb-12 font-mono underline mt-5">
           excuser-app
         </h1>
         <button

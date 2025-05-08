@@ -19,10 +19,10 @@ The **Excuse App** is a simple React application that fetches random excuses fro
 ## Screenshots
 
 - Large Screen
-  ![alt text](lg_excuserapp.png)
+  ![alt text](lg_excuserap.png)
 - Small Screen
   ![alt text](sm_excuserapp.png)
 
 ## Demo Link
 
-[live Demo]()
+[live Demo](https://r-react-excuserapp.netlify.app/)
